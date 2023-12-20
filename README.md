@@ -1,5 +1,6 @@
-# TTC
-Navigating Transit Delays: Predicting TTC Journey Disruptions
+
+# Navigating Transit Delays: Predicting TTC Journey Disruptions
+
 ## Abstract
 This project aims to create a machine-learning
 model to forecast transit delays in the Toronto Transit Commission
