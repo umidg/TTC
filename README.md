@@ -1,5 +1,6 @@
 
 # Navigating Transit Delays: Predicting TTC Journey Disruptions
+Link: https://github.com/umidg/TTC/blob/main/Navigating_Transit_Delays__Predicting_TTC_Journey_Disruptions.pdf
 
 ## Abstract
 This project aims to create a machine-learning
